@@ -3,11 +3,26 @@
 .jumbotron {
     background-image: url("https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80");
 }
-.h1 {
-    font-style: white;
-    color: white;
+.footer {
+    background-color: #E1E7EB;
+    max-height: 200px;
+    bottom: 0%;
 }
-.p {
-    
-    color: white;
+.footer-text {
+    color: #007BFF;
+}
+.footer-home {
+    position: absolute;
+    bottom: 0%;
+    min-width: 100%;
+}
+.footer-icons {
+    font-size: 25pt;
+}
+#github-footer {
+    margin-left: 1%;
+    color: #007BFF;
+}
+#linkedin-footer {
+    color: #007BFF;
 }
