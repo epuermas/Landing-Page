@@ -4,8 +4,8 @@ import React from "react";
 const Jumbotron = () => {
 	return (
 		<div className="jumbotron">
-			<h1 className="display-4">Hello, world!</h1>
-			<p className="lead">
+			<h1 className="jumbotron-title display-4">Hello, world!</h1>
+			<p className="jumbotron-text1 lead">
 				This is a simple hero unit, a simple jumbotron-style component
 				for calling extra attention to featured content or information.
 			</p>
