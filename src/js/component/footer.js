@@ -5,6 +5,7 @@ export const Footer = () => (
 		<p className="footer-text">
 			Made with <i className="fa fa-heart text-danger" /> by{" "}
 			<a
+				className="footer-link"
 				href="https://www.instagram.com/eddy_prms/"
 				target="_blank"
 				rel="noopener noreferrer">

@@ -12,12 +12,17 @@
     background-position: center;
 }
 .footer {
-    background-color: #E1E7EB;
+    background-color: #E9ECEF;
     max-height: 200px;
     bottom: 0%;
 }
 .footer-text {
-    color: #007BFF;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+}
+
+.footer-link:visited {
+    color: white;
 }
 .footer-home {
     position: absolute;
