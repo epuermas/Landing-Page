@@ -5,7 +5,7 @@ const Card = () => {
 	return (
 		<div className="card" style={{ width: "18rem" }}>
 			<img
-				src="https://image.shutterstock.com/image-vector/grunge-red-sample-word-round-260nw-1242668641.jpg"
+				src="https://i.imgur.com/6dNaDpP.jpg"
 				className="card-img-top"
 				alt="..."
 			/>
