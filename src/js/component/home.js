@@ -8,12 +8,14 @@ const Home = () => {
 	return (
 		<div>
 			<Navbar />
-			<Jumbotron />
-			<div className="d-flex justify-content-around">
-				<Card />
-				<Card />
-				<Card />
-				<Card />
+			<div className="container">
+				<Jumbotron />
+				<div className="d-flex justify-content-around">
+					<Card />
+					<Card />
+					<Card />
+					<Card />
+				</div>
 			</div>
 			<Footer />
 		</div>

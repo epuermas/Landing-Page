@@ -35,15 +35,6 @@ function Navbar() {
 								Pricing
 							</a>
 						</li>
-						<li className="nav-item">
-							<a
-								className="nav-link disabled"
-								href="#"
-								tabIndex="-1"
-								aria-disabled="true">
-								Disabled
-							</a>
-						</li>{" "}
 					</ul>
 				</div>
 			</nav>
