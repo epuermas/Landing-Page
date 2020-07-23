@@ -7,10 +7,10 @@ import Footer from "./footer";
 const Home = () => {
 	return (
 		<div>
-			<Navbar />
 			<div className="container">
+				<Navbar />
 				<Jumbotron />
-				<div className="d-flex justify-content-around">
+				<div className="card-container d-flex justify-content-around">
 					<Card />
 					<Card />
 					<Card />

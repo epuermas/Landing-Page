@@ -3,18 +3,24 @@
 .container {
     max-width: 1000px !important;
 }
-
+.navbar {
+    margin-bottom: 5px;
+}
+.card-container {
+    margin-top: 0px;
+}
 .card {
     margin-left: 5px;
 }
 .jumbotron {
     background-image: url("");
     background-position: center;
+    margin-bottom: 20px;
 }
 .footer {
     background-color: #E9ECEF;
     max-height: 200px;
-    bottom: 0%;
+   
 }
 .footer-text {
     color: white;
