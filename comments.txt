@@ -1,3 +1,2 @@
 This is a text document for comments outside of the code.
 
-Sample comment
